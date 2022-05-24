@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Android组件化设计.iml" filepath="$PROJECT_DIR$/.idea/modules/Android组件化设计.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Android组件化设计.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Android组件化设计.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/chat/Android组件化设计.chat.iml" filepath="$PROJECT_DIR$/.idea/modules/chat/Android组件化设计.chat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/common/Android组件化设计.common.iml" filepath="$PROJECT_DIR$/.idea/modules/common/Android组件化设计.common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/contact/Android组件化设计.contact.iml" filepath="$PROJECT_DIR$/.idea/modules/contact/Android组件化设计.contact.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/find/Android组件化设计.find.iml" filepath="$PROJECT_DIR$/.idea/modules/find/Android组件化设计.find.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/me/Android组件化设计.me.iml" filepath="$PROJECT_DIR$/.idea/modules/me/Android组件化设计.me.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/menu_chat"
+        android:title="跳转chat组件"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_contact"
+        android:title="跳转contact组件"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_find"
+        android:title="跳转find组件"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_me"
+        android:title="跳转me组件"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_my_activity"
+        android:title="跳转MyActivity"
+        app:showAsAction="never" />
+    <item
+        android:id="@+id/menu_my_fragment"
+        android:title="调用其他Fragment"
+        app:showAsAction="never" />
+</menu>

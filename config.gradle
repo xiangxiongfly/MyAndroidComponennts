@@ -1,0 +1,37 @@
+ext {
+    //独立运行组件开关
+    isModule = false
+
+    android = [
+            compileSdkVersion    : 30,
+            buildToolsVersion    : "30.0.3",
+            minSdkVersion        : 21,
+            targetSdkVersion     : 30,
+            versionCode          : 1,
+            versionName          : "1.0",
+            applicationId        : "com.example.app",
+            applicationId_chat   : "com.example.chat",
+            applicationId_contact: "com.example.contact",
+            applicationId_find   : "com.example.find",
+            applicationId_me     : "com.example.me"
+    ]
+
+    dependencies = [
+            //Kotlin
+            "kotlin-stdlib"   : "org.jetbrains.kotlin:kotlin-stdlib:$kotlin_version",
+            "core-ktx"        : 'androidx.core:core-ktx:1.3.1',
+            //Android
+            "appcompat"       : 'androidx.appcompat:appcompat:1.3.1',
+            "material"        : 'com.google.android.material:material:1.2.1',
+            "constraintlayout": 'androidx.constraintlayout:constraintlayout:2.0.1',
+            //ARouter
+            "arouter-api"     : 'com.alibaba:arouter-api:1.5.2',
+            "arouter-compiler": 'com.alibaba:arouter-compiler:1.5.2',
+            //CircleImageView
+            "circleimageview" : 'de.hdodenhof:circleimageview:3.0.0',
+            //ShapeView
+            "shapeView"       : 'com.github.getActivity:ShapeView:8.0',
+            //Eventbus
+            "eventbus"        : 'org.greenrobot:eventbus:3.2.0'
+    ]
+}

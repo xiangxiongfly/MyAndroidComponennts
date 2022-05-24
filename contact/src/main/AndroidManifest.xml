@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.contact">
+
+    <application>
+        <activity
+            android:name=".RunContactActivity"
+            android:label="RunContactActivity" />
+        <activity
+            android:name=".MyActivity"
+            android:label="MyActivity" />
+    </application>
+
+</manifest>
